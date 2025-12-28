@@ -19,4 +19,5 @@ extra_cheese = input("Do you want extra cheese on your pizza? Y or N: ")
 if extra_cheese.lower() == 'y':
     bill += 1
     
+# shows the bill
 print (f'Your final bill is ${bill}')
