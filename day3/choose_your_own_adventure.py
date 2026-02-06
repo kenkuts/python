@@ -210,5 +210,5 @@ elif answer.lower() == 'r':
                          .%%%@@@|%    |    % @@@%%@%%%%
                     _.%%%%%%@@@@@@%%_/%\_%@@%%@@@@@@@%%%%%%
     ''')
-    print("Your path crumbled and you fell into your death a hole!")
+    print("Your path crumbled and you fell into your death in a hole!")
     print("Game Over!")
